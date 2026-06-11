@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Science
-subtitle: Science
+title: Science with SHARPS
+subtitle: High-sensitivity, high-contrast, high-spectral resolution interferometry
 ---
 
 My name is Inigo Montoya. I have the following qualities:
