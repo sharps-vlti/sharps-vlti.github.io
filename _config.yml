@@ -20,14 +20,14 @@ author: SHARPS consortium / Stefan Kraus
 ###############################################
 
 navbar-links:
-  Overview: "Overview"
-  Science: "Science"
-  Technology: "Technology"
-  Meetings: "Meetings"
+  Overview: "overview"
+  Science: "science"
+  Technology: "technology"
+  Meetings: "meetings"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Contact: README.md
+  Contact: "contact"
 
 ################
 # --- Logo --- #
