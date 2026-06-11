@@ -23,7 +23,7 @@ navbar-links:
   Overview: "overview"
   Science: "science"
   Technology: "technology"
-  Meetings: "feed"
+  Meetings: "meetings"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
