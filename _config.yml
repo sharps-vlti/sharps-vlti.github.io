@@ -13,7 +13,7 @@
 title: SHARPS instrument for VLTI
 
 # Your name to show in the footer
-author: Stefan Kraus
+author: SHARPS consortium / Stefan Kraus
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -27,7 +27,7 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Contact: "https://deanattali.com"
+  Contact: README.md
 
 ################
 # --- Logo --- #
