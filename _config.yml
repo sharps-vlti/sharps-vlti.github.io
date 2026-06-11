@@ -20,7 +20,7 @@ author: SHARPS consortium / Stefan Kraus
 ###############################################
 
 navbar-links:
-  Overview: "index"
+  Overview: "overview"
   Science: "science"
   Technology: "technology"
   Meetings: "meetings"
