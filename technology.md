@@ -4,13 +4,13 @@ title: Technology
 subtitle: Enabling SHARPS
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+SHARPS will rely on the following key technologies that are currently already being matured as part of several ongoing R&D technologies pursued by our team:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Ultra-low noise detectors:
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
-What else do you need?
+## Laser metrology:
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
-### My story
-
+## High-efficiency gratings with wide wavelength coverage:
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
