@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Science with SHARPS
+title: Science
 subtitle: High-sensitivity, high-contrast, high-spectral resolution interferometry
 ---
 
