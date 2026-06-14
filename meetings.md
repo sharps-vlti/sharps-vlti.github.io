@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SHARPS meetings
+title: Meetings
 subtitle: Make it happen together
 ---
 
