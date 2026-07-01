@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Science workshop
-subtitle: Join us to explore SHARPS key science cases
+subtitle: Join us to explore SHARPS science cases
 cover-img: /assets/img/uk-exeter.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/uk-exeter.png
@@ -11,9 +11,9 @@ author: Stefan Kraus
 
 To follow up on the productive discussions on science cases for SHARPS at the VLTI Community Days in May, we plan to organise a brief science-focussed workshop:
 
-Workshop: "Short-wavelength science with VLTI: planning for SHARPS”
-Date: Wednesday, July 29th
-Location: University of Exeter, UK
+Workshop: "Short-wavelength science with VLTI: planning for SHARPS”<br>
+Date: Wednesday, July 29th<br>
+Location: University of Exeter, UK<br>
 
 The aim of the workshop will be to engage the community in defining the science cases for the SHARPS facility instrument. Following some introductory talks, we will discuss the most promising science cases for Y/J/H-band interferometry and work hands-on on the SHARPS science whitepaper, covering science areas around exoplanets, star/planet formation, stellar astrophysics, and extragalactic science. Depending on the interests of the participants, we are also happy to include talks on relevant Y/J/H-band activities at VLTI (e.g. Asgard/BIFROST visitor instrument and PLANETES TecDev) or to advise participants on the process for submitting exploratory P118 Asgard proposals.
 
