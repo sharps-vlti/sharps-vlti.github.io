@@ -10,9 +10,9 @@ Join us at the following workshops to learn about SHARPS and to shape the projec
 
 SHARPS will be presented in the following two conference talks at SPIE:
 
-[Kraus et al., Paper 14148-55, "VLTI down to 1.0 micron: science drivers for a high-contrast, high-sensitivity 3rd-generation facility instrument"](https://spie.org/astronomical-telescopes-instrumentation/presentation/VLTI-down-to-10-micron--science-drivers-for-a/14148-55)
+["VLTI down to 1.0 micron: science drivers for a high-contrast, high-sensitivity 3rd-generation facility instrument", Kraus et al., Paper 14148-55](https://spie.org/astronomical-telescopes-instrumentation/presentation/VLTI-down-to-10-micron--science-drivers-for-a/14148-55)
 
-[Nowak et al., Paper 14148-XX, Architecture talk]()
+["SHARPS Architecture", Nowak et al., Paper 14148-XX]()
 
 
 ### SHARPS Science workshop, 2026 July 29, Exeter/UK
