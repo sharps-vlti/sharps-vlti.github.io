@@ -4,7 +4,7 @@ title: Meetings
 subtitle: Make it happen together
 ---
 
-The 
+Join us at the following workshops to learn about SHARPS and to shape the project: 
 
 ### SPIE Astronomical Telescopes + Instrumentation, 2026 July 5-10, Copenhagen/Denmark
 
