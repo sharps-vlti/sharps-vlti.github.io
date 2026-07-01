@@ -6,9 +6,14 @@ subtitle: Make it happen together
 
 The 
 
-### SHARPS talks at SPIE
+### SPIE Astronomical Telescopes + Instrumentation, 2026 July 5-10, Copenhagen/Denmark
 
-Please contact us if you would like to become involved with SHARPS
+SHARPS will be presented in the following two conference talks at SPIE:
+
+[Kraus et al., Paper 14148-55, "VLTI down to 1.0 micron: science drivers for a high-contrast, high-sensitivity 3rd-generation facility instrument"](https://spie.org/astronomical-telescopes-instrumentation/presentation/VLTI-down-to-10-micron--science-drivers-for-a/14148-55)
+
+[Nowak et al., Paper 14148-XX, Architecture talk]()
+
 
 ### SHARPS Science workshop, 2026 July 29, Exeter/UK
 
