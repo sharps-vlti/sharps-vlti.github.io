@@ -2,9 +2,9 @@
 layout: post
 title: Science workshop
 subtitle: Join us to explore SHARPS science cases
-cover-img: /assets/img/uk-exeter.png
+cover-img: /assets/img/uk_exeter.png
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/uk-exeter.png
+share-img: /assets/img/uk_exeter.png
 tags: [science]
 author: Stefan Kraus
 ---
