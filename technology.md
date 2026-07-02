@@ -10,4 +10,6 @@ SHARPS builds on decades of investment into VLTI infrastructure and utilises tec
 
 - **Astrophotonics:** Beam combination and wavefront sensing can now be facilitated more efficiently than possible before, promising further gains in sensitivity.
 
+- **Advanced wavefront control:** Innovative methods of wavefront control improve both the light injection, and the contrast achievable at smaller inner working angles.
+
 - **High-efficiency gratings with wide wavelength coverage:** Volume Phase Holographic gratings with multiplexing enable high efficiency, as well as wide wavelength.
