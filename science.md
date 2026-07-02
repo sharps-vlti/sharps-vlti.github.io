@@ -20,5 +20,5 @@ In the field of accretion and mass ejection, the instrument will cover unique ac
 ### Stellar Astrophysics: 
 Shorter wavelengths, combined with vibration control at the VLTI, will provide improved astrometric precision enabling the detection of intermediate-mass black holes, and resolved microlensing studies probing the lower mass gap between neutron stars and black holes. Velocity-resolved imaging of stellar convection and stellar wind will advance our understanding of stellar structure and allow us to derive precision ages for Galactic Archaeology.
 
-### Extrgalactic Astrophysics and Cosmology: 
+### Extragalactic Astrophysics and Cosmology: 
 SHARPS will resolve the detailed gas kinematics in the broad-line region of active galactic nuclei, providing Black Hole masses at intermediate redshift and removing systematic uncertainties for Black Hole masses at higher redshift. Together with a dedicated reverberation-mapping campaign, this should provide tight constraints on the Hubble constants and allow solving the ongoing debate on the Hubble tension.
