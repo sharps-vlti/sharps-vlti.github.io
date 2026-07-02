@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meetings
-subtitle: Make it happen together
+subtitle: Make it happen, together
 ---
 
 Join us at the following workshops to learn about SHARPS and to shape the project with us:
