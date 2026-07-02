@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-SHARPS is a concept for a 3rd-generation VLTI instrument that will be proposed for the 'VLT beyond 2030' call.  
+SHARPS is a concept for a 3rd-generation VLTI instrument that will be proposed for [ESO's 'VLT beyond 2030' call](https://www.eso.org/sci/meetings/2026/VLT_beyond_2030/whitepaper_call_vltbeyond2030.html).  
 It will be the first facility instrument with the following characteristics:<br><br>
 
 **Short Wavelengths:**<br>
