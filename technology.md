@@ -8,6 +8,6 @@ SHARPS builds on decades of investment into VLTI infrastructure and utilises tec
 
 - **Ultra-low noise detectors:** APD detector technology enables now low dark current as well as large pixel formats, making them near-perfect science detectors for SHARPS.
 
-- **Astrophotonics:** AXXX
+- **Astrophotonics:** Beam combination and wavefront sensing can now be facilitated more efficiently than possible before, promising further gains in sensitivity.
 
 - **High-efficiency gratings with wide wavelength coverage:** Volume Phase Holographic gratings with multiplexing enable high efficiency, as well as wide wavelength.
