@@ -73,9 +73,9 @@ Please contact us if you would like to become involved with SHARPS.
 </head>
 <body>
 
-<h1>Contact Me</h1>
+<h1>Contact SHARPS team</h1>
 
-<form
+<form>
     action="https://formspree.io/f/mgojpeen"
     method="POST">
 
