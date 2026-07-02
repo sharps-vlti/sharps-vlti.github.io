@@ -4,12 +4,10 @@ title: Technology
 subtitle: Enabling SHARPS
 ---
 
-SHARPS will rely on the following key technologies that are currently being matured as part of several ongoing R&D programs:
+SHARPS builds on decades of investment into VLTI infrastructure and utilises technology breakthroughs in the following areas to open the chapter of sub-milli-arcsecond astronomy at VLTI:
 
-- **Ultra-low noise detectors:**  To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- **Ultra-low noise detectors:** APD detector technology enables now low dark current as well as large pixel formats, making them near-perfect science detectors for SHARPS.
 
-- **Laser metrology:** To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29).
+- **Astrophotonics:** AXXX
 
-- **High-efficiency gratings with wide wavelength coverage:** To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-
-- **Cophasing:** To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- **High-efficiency gratings with wide wavelength coverage:** Volume Phase Holographic gratings with multiplexing enable high efficiency, as well as wide wavelength.
