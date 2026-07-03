@@ -9,10 +9,9 @@ Join us at the following workshops to learn about SHARPS and to shape the projec
 ### SPIE Astronomical Telescopes + Instrumentation, 2026 July 5-10, Copenhagen/Denmark
 
 SHARPS science cases will be presented in the following conference talk at SPIE:
-- Friday, July 10th, 9:20am, Room B4-M5: ["VLTI down to 1.0 micron: science drivers for a high-contrast, high-sensitivity 3rd-generation facility instrument", Kraus et al., Paper 14148-55](https://spie.org/astronomical-telescopes-instrumentation/presentation/VLTI-down-to-10-micron--science-drivers-for-a/14148-55)<br>
+- 10 July 2026 • 09:20 - 09:40 CEST,  Room B4-M5, Paper 14148-55, ["VLTI down to 1.0 micron: science drivers for a high-contrast, high-sensitivity 3rd-generation facility instrument"](https://spie.org/astronomical-telescopes-instrumentation/presentation/VLTI-down-to-10-micron--science-drivers-for-a/14148-55), Kraus et al.<br>
 
-In addition, there will be presentations on the following ongoing activities at VLTI
-that are leading the way towards SHARPS:
+In addition, there will be presentations on the following ongoing activities at VLTI that are leading the way towards SHARPS:
 
 - 5 July 2026 • 17:30 - 19:00 CEST, Hall B6, Paper 14154-216, ["Characterization of a J-band integrated circuit for PLANETES, an upgraded high-contrast interferometer for the VLTI"](https://spie.org/astronomical-telescopes-instrumentation/presentation/Characterization-of-a-J-band-integrated-circuit-for-PLANETES-an/14154-216), Jehanne Sarrazin et al.<br>
 
