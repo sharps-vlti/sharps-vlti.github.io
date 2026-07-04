@@ -53,3 +53,7 @@ The aim of this workshop is to engage the community in defining the science case
 ### SHARPS Architecture workshop, 2026 October (TBC), Meudon/France
 
 This workshop will provide a forum to discuss technical aspects on the implementation of SHARPS. The precise date will be advertised soon.
+
+### SHARPS Consortium meeting, 2026 December 8+9, London/UK
+
+Meeting at the Royal Astronomical Society to finalise the whitepapers.
