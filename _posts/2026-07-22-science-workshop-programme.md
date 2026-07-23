@@ -9,8 +9,6 @@ tags: [science]
 author: Stefan Kraus
 ---
 
-We are organising the following workshop:
-
 <b>Workshop:</b> "Short-wavelength science with VLTI: planning for SHARPS”<br>
 <b>Date:</b> Wednesday, July 29<br>
 <b>Location:</b> Seminar Room 1, Forum, University of Exeter, UK<br>
