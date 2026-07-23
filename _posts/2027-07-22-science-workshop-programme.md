@@ -9,12 +9,10 @@ tags: [science]
 author: Stefan Kraus
 ---
 
-We organise the following workshop:
-
 <b>Workshop:</b> "Short-wavelength science with VLTI: planning for SHARPS”<br>
 <b>Date:</b> Wednesday, July 29<br>
 <b>Location:</b> Seminar Room 1, Forum, University of Exeter, UK<br>
-<b>Programme:</b> Indicative schedule for talks and discussion time window (PDF file)<br>
+<b>Programme:</b> [Schedule for talks and discussions (PDF file)](docs/shortwave-workshop-programme.pdf)<br>
 
 The aim of the workshop is to engage the community in defining the science cases for optical interferometry in the 1...2 micrometer range (YJH-band), which is the wavelength range that will targeted by SHARPS.
 
