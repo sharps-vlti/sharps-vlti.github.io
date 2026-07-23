@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Programme "Short-wavelength science" workshop
+title: "Short-wavelength science with VLTI" workshop
 subtitle: Join us to explore SHARPS science cases
 cover-img: /assets/img/eso2519a.jpg
 thumbnail-img: /assets/img/uk_exeter.png
