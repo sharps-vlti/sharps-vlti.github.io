@@ -18,7 +18,6 @@ The aim of the workshop is to engage the community in defining the science cases
 
 The workshop will start with brief introductory talks suitable for newcomers to the field, focussing on the capabilities of the current VLTI facility instruments, on Asgard/BIFROST, and on the SHARPS technical concept.  Most of the day will then be spend on discussing promising science cases in the fields of stellar astrophysics, exoplanets, star/planet-formation, and extragalactic science, including hands-on work on the SHARPS science whitepaper.
 
-Participants of the ["Discs on the Exe" conference](https://discsontheexe.org) conference can join us at any time in Seminar Room 10, just next to the main auditorium in the Forum.  You can find a link to the programme with approximate time windows above.  Star-/Planet-formation and exoplanet-related topics are scheduled for the morning session, while extragalactic science is scheduled for the afternoon session, when many conference participants might attend the social excursions.
+Participants of the ["Discs on the Exe" conference](https://discsontheexe.org) conference can join us at any time in Seminar Room 10, just next to the main auditorium in the Forum.  You can find a link to the programme with approximate time windows above.
 
 The format will be very interactive and informal, so even if you cannot make a specific time slot, please pass by at any time to ask any questions or to discuss ideas.  No registration required.
-
