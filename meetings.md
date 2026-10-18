@@ -6,6 +6,16 @@ subtitle: Make it happen, together
 
 Join us at the following workshops to learn about SHARPS and to shape the project with us:
 
+### SHARPS Consortium meeting, 2026 December 8+9, London/UK
+
+Agenda: Iteration on the white papers<br>
+Location: Royal Astronomical Society (Council Room). Access information is available ["here"](https://observatoiredeparis.psl.eu/access-to-the-paris-campus.html?lang=en)<br>
+
+### SHARPS Architecture, 2026 November 3, Paris/France
+
+Agenda: Discussions on the technical architecture.<br>
+Location: Observatoire de Paris (Denfert-Rochereau). Access information is available ["here"](https://observatoiredeparis.psl.eu/access-to-the-paris-campus.html?lang=en)<br>
+
 ### SPIE Astronomical Telescopes + Instrumentation, 2026 July 5-10, Copenhagen/Denmark
 
 SHARPS science cases will be presented in the following conference talk at SPIE:
