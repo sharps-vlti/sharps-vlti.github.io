@@ -9,7 +9,7 @@ Join us at the following workshops to learn about SHARPS and to shape the projec
 ### SHARPS Consortium meeting, 2026 December 8+9, London/UK
 
 Agenda: Iteration on the white papers<br>
-Location: Royal Astronomical Society, Burlington House (Council Room). Access information is available [here]([https://observatoiredeparis.psl.eu/access-to-the-paris-campus.html?lang=en](https://ras.ac.uk/about-the-ras/burlington-house/240-welcome-to-burlington-house))<br>
+Location: Royal Astronomical Society, Burlington House (Council Room). Access information is available [here](https://ras.ac.uk/about-the-ras/burlington-house/240-welcome-to-burlington-house)<br>
 
 ### SHARPS Architecture, 2026 November 3, Paris/France
 
