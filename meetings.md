@@ -11,7 +11,7 @@ Join us at the following workshops to learn about SHARPS and to shape the projec
 Agenda: Iteration on the white papers<br>
 Location: Royal Astronomical Society, Burlington House (Council Room). Access information is available [here](https://ras.ac.uk/about-the-ras/burlington-house/240-welcome-to-burlington-house).<br>
 
-### SHARPS Architecture, 2026 November 3, Paris/France
+### SHARPS Architecture workshop, 2026 November 3, Paris/France
 
 Agenda: Discussions on the technical architecture.<br>
 Location: Observatoire de Paris (Denfert-Rochereau). Access information is available [here](https://observatoiredeparis.psl.eu/access-to-the-paris-campus.html?lang=en).<br>
